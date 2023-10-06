@@ -50,6 +50,7 @@ public class MainActivityV extends AppCompatActivity {
         GridLayoutManager linearLayoutManager = new GridLayoutManager(this,3);
         recyclerView.setLayoutManager(linearLayoutManager);
         getData();
+        //Main
 
     }
 
